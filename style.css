@@ -1,0 +1,28 @@
+h1{color:black}
+*{border:solid}
+.header{
+    background-color:white;
+    display:flex;
+    justify-content:space-between 
+}
+.grid{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:flex-start
+}
+.footer{
+    display:flex;
+    justify-content:space-below
+}
+body{
+    background-color:white;
+}
+.menu{
+    margin:30px;
+    padding:30px;
+    }
+a:visited{
+    color:green
+}
+
+
